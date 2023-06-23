@@ -2,7 +2,7 @@
 This project aims to train multiple models on the Google Play Store dataset to predict various app attributes and categories. The dataset contains information about different apps available on the Google Play Store, including app names, categories, ratings, reviews, sizes, and more.
 
 ## Dataset
-The dataset used in this project is the Google Play Store dataset, which can be downloaded from Kaggle using the following link: [Google Play Store Dataset](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps)<br>
+The dataset used in this project is the Google Play Store dataset, which can be downloaded from Kaggle using the following link: <br>[Google Play Store Dataset](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps)<br>
 
 ### The dataset consists of the following columns:<br>
 
